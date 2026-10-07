@@ -113,26 +113,24 @@ Below are structural breakdowns of complex systems I have engineered, highlighti
 
 ## 📊 GitHub Analytics & Code Contribution
 
-*(Metrics are dynamically updated by GitHub Actions and Vercel APIs)*
-
 <p align="center">
-  <a href="https://github.com/AlFarrizi-Studio">
-    <img src="https://github-profile-trophy.vercel.app/?username=AlFarrizi-Studio&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  <a href="https://github.com/alfzcore">
+    <img src="https://github-profile-trophy.vercel.app/?username=alfzcore&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/AlFarrizi-Studio">
-    <img src="https://github-readme-stats.vercel.app/api?username=AlFarrizi-Studio&show_icons=true&theme=radical&count_private=true" alt="GitHub Core Stats" width="48%" />
+  <a href="https://github.com/alfzcore">
+    <img src="https://github-readme-stats.vercel.app/api?username=alfzcore&show_icons=true&theme=radical&count_private=true" alt="GitHub Core Stats" width="48%" />
   </a>
-  <a href="https://github.com/AlFarrizi-Studio">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlFarrizi-Studio&layout=compact&theme=radical" alt="Top Languages Used" width="48%" />
+  <a href="https://github.com/alfzcore">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfzcore&layout=compact&theme=radical" alt="Top Languages Used" width="48%" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/AlFarrizi-Studio">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlFarrizi-Studio&theme=radical" alt="GitHub Contribution Streak" width="97%" />
+  <a href="https://github.com/alfzcore">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfzcore&theme=radical" alt="GitHub Contribution Streak" width="97%" />
   </a>
 </p>
 
