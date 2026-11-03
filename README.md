@@ -1,208 +1,227 @@
-# 👋 Welcome to the Digital Workspace of Al Farrizi
+<!-- ═══════════════════════════════ HEADER ═══════════════════════════════ -->
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=Full-Stack+Software+Engineer;DevOps+%26+Cloud+Infrastructure+Architect;Microservices+%26+System+Design+Enthusiast;Proudly+Engineering+from+Indonesia+🇮🇩" alt="Typing SVG" />
-</p>
+  <h1>👋 Hey there, I'm Al Farrizi!</h1>
 
-<p align="center">
+  <p>
+    <strong>💻 Software Developer</strong> &nbsp;•&nbsp;
+    <strong>🎓 Informatics Engineering Student</strong> &nbsp;•&nbsp;
+    <strong>🇮🇩 Based in Indonesia</strong>
+  </p>
+
   <a href="https://github.com/AlFarrizi-Studio">
-    <img src="https://img.shields.io/github/followers/AlFarrizi-Studio?label=Followers&style=social" alt="GitHub Followers" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3200&amp;pause=1100&amp;color=36BCF7&amp;center=true&amp;vCenter=true&amp;width=680&amp;height=55&amp;lines=Exploring+Software+Development;Building+Web+Apps+%26+APIs;Learning+Cloud+%26+Automation;Turning+Ideas+Into+Code" alt="Animated introduction: software development, web applications, APIs, and automation" />
   </a>
-  <a href="https://github.com/AlFarrizi-Studio?tab=repositories">
-    <img src="https://img.shields.io/github/stars/AlFarrizi-Studio?label=Total%20Stars&style=social" alt="GitHub Stars" />
-  </a>
-  <a href="https://github.com/AlFarrizi-Studio/DugeonTok-Player">
-    <img src="https://img.shields.io/badge/Open%20Source-Contributor-blue?style=social&logo=github" alt="Open Source Contributor" />
-  </a>
-</p>
+
+  <p><em>Curious by nature. Driven by ideas. Always learning, always building.</em> ✨</p>
+
+  <p>
+    <a href="https://github.com/AlFarrizi-Studio"><img src="https://img.shields.io/badge/GitHub-AlFarrizi--Studio-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
+    <a href="https://www.linkedin.com/in/keivan-gymnastiar-al-farrizi-294287355"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://discord.com/users/765521422399176725"><img src="https://img.shields.io/badge/Discord-Say_Hello-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord" /></a>
+  </p>
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=AlFarrizi-Studio&amp;label=Profile%20Views&amp;color=36BCF7&amp;style=flat-square" alt="Profile views" />
+    <a href="https://github.com/AlFarrizi-Studio?tab=followers"><img src="https://img.shields.io/github/followers/AlFarrizi-Studio?label=Followers&amp;style=flat-square&amp;color=36BCF7" alt="GitHub followers" /></a>
+    <a href="https://github.com/AlFarrizi-Studio?tab=repositories"><img src="https://img.shields.io/badge/Open%20Source-Enthusiast-3DA639?style=flat-square&amp;logo=opensourceinitiative&amp;logoColor=white" alt="Open-source enthusiast" /></a>
+  </p>
+
+</div>
 
 ---
 
-> *"I don't just write lines of code; I architect resilient ecosystems, streamline delivery pipelines, and build digital products that scale elegantly under pressure."*
+<!-- ═══════════════════════════════ INTRODUCTION ═══════════════════════════════ -->
+## 🧑‍💻 A Little About Me
 
-## 💫 Executive Summary
+Hello, world! 🌏 I'm **Al Farrizi**, an Informatics Engineering student and an enthusiastic developer from **Indonesia**. I enjoy exploring how software works, understanding the details behind a system, and turning ideas into practical digital experiences.
 
-Hello, World! 🌍 I am **Al Farrizi**, a deeply passionate and meticulous **Full-Stack Software Engineer & Cloud Architect** based in **Indonesia**. With a strong foundation in computer science and modern software paradigms, I specialize in navigating the complete Software Development Life Cycle (SDLC) — from dissecting complex business requirements to deploying fault-tolerant microservices in the cloud.
+My interests range from **responsive websites and user interfaces** to **backend services, REST APIs, automation, and developer tools**. I like working on both the part users interact with and the logic that makes everything run behind the scenes.
 
-My engineering philosophy revolves around **Domain-Driven Design (DDD)**, **Clean Architecture**, and **Test-Driven Development (TDD)**. I thrive in environments where performance bottlenecks need dismantling, legacy monoliths require graceful migration to event-driven architectures, and infrastructure demands automated scalability.
+I believe good software should be more than functional. It should also be **clear, maintainable, secure, and pleasant to use**. Whether I'm learning a new technology, debugging an issue, or refining an interface, I aim to keep improving one step at a time. 🚀
 
-### 🧠 Core Engineering Philosophy
-- **Scalability by Design:** Building stateless application tiers and leveraging aggressive caching strategies (Redis/Memcached) to ensure horizontal scalability.
-- **Fail-Safe Architectures:** Designing systems with Circuit Breakers, Retry Mechanisms, and Dead-Letter Queues (DLQ) to ensure graceful degradation.
-- **Shift-Left Security:** Integrating security checks (SAST, DAST, Container Scanning) natively into the CI/CD pipeline.
-- **Maintainability:** Writing self-documenting, modular, and DRY (Don't Repeat Yourself) code backed by >90% test coverage.
+### ⚡ A Few Things About Me
 
----
-
-## 🛠️ The Technical Arsenal
-
-I carefully select tools based on the specific architectural constraints of the project. Here is a comprehensive breakdown of the technologies I utilize in production environments:
-
-### 🌐 Frontend & User Experience (UX)
-Building highly responsive, accessible, and performant web interfaces with modern rendering strategies (CSR, SSR, SSG).
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-</p>
-
-### ⚙️ Backend & API Development
-Engineering robust, secure, and low-latency RESTful APIs, GraphQL endpoints, and gRPC services.
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-</p>
-
-### 🗄️ Database, Caching & Message Brokers
-Structuring persistent storage, managing high-throughput data streams, and optimizing complex query indexing.
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
-</p>
-
-### ☁️ Cloud Computing, CI/CD & DevOps
-Implementing Infrastructure-as-Code (IaC), container orchestration, and automated deployment strategies.
-<p align="left">
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
+| | |
+| :--- | :--- |
+| 🎓 **Education** | Informatics Engineering / Computer Science |
+| 📍 **Location** | Indonesia 🇮🇩 |
+| 🧩 **Main interests** | Full-stack development, backend engineering & APIs |
+| 🤖 **I enjoy** | Automation, developer tooling & experimenting with new ideas |
+| 🛡️ **I care about** | Code quality, performance, reliability & security |
+| 🌱 **Always learning** | Modern web technologies, cloud concepts & system design |
+| 🤝 **Collaboration** | Sharing knowledge and contributing to open-source ideas |
 
 ---
 
-## 🏗️ Featured Enterprise-Grade Projects
+<!-- ═══════════════════════════════ SKILLS ═══════════════════════════════ -->
+<div align="center">
+  <h2>🛠️ Technologies & Skills</h2>
+  <p>Tools and technologies I work with, study, or explore along my development journey.</p>
+  <p><sub>💡 These are areas of experience and interest — not a claim of expert-level proficiency in every tool.</sub></p>
+</div>
 
-Below are structural breakdowns of complex systems I have engineered, highlighting my capability to solve high-stakes engineering problems:
+<div align="center">
+  <h3>💻 Programming Languages</h3>
+  <p>Languages I use and continue learning for building applications, scripts, and services.</p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,go,php&amp;theme=dark&amp;perline=8" alt="JavaScript, TypeScript, Python, Go, PHP" />
 
-### 1. 🛍️ Nusantara Commerce: Distributed E-Commerce Platform
-**Role:** Lead Architect & Full-Stack Developer  
-**Tech Stack:** `Golang`, `Next.js`, `PostgreSQL`, `Kafka`, `Redis`, `Docker Swarm`
-*   **The Challenge:** Handling extreme spikes in traffic during monthly "Flash Sales" without database locking or race conditions.
-*   **The Solution:** Migrated the monolithic cart system to a microservices architecture. Implemented **Event-Sourcing** via Apache Kafka to process orders asynchronously. Used Redis to hold ephemeral flash-sale inventory.
-*   **The Impact:** Achieved a **40% reduction in API latency** and processed up to 5,000 concurrent orders per minute with zero downtime.
+  <h3>🎨 Frontend & UI Development</h3>
+  <p>Building interactive, responsive, and user-friendly web experiences.</p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,redux&amp;theme=dark&amp;perline=8" alt="HTML, CSS, React, Next.js, Tailwind CSS, Redux" />
 
-### 2. 🚢 Garuda Auto-Deploy: Cloud-Native DevOps Orchestration
-**Role:** DevOps & Cloud Automation Engineer  
-**Tech Stack:** `AWS (EKS, RDS, S3)`, `Terraform`, `GitHub Actions`, `Bash`
-*   **The Challenge:** Developers were spending hours manually provisioning staging environments, leading to configurations drift and deployment anxieties.
-*   **The Solution:** Authored a complete Infrastructure-as-Code (IaC) pipeline using Terraform. Integrated a **Blue-Green deployment strategy** on Kubernetes (EKS) via GitHub Actions.
-*   **The Impact:** Cut deployment time by **55%**, eliminated configuration inconsistencies, and enforced automated rollback protocols upon health-check failures.
+  <h3>⚙️ Backend & API Development</h3>
+  <p>Exploring application logic, server-side services, and API integration.</p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,laravel&amp;theme=dark&amp;perline=8" alt="Node.js, Express, Django, Laravel" />
 
-### 3. 🌍 Nusantara Climate Intelligence (NCI) Real-time Dashboard
-**Role:** Backend & Data Engineer  
-**Tech Stack:** `Python (FastAPI)`, `React`, `MongoDB`, `WebSockets`, `Apache Spark`
-*   **The Challenge:** Aggregating and visualizing millions of geospatial data points from IoT weather sensors across Indonesia in real-time.
-*   **The Solution:** Built a robust ETL pipeline. Utilized Apache Spark for map-reduce aggregation and exposed the data via WebSocket connections to a highly optimized React.js frontend map interface.
+  <h3>🗄️ Databases & Data Storage</h3>
+  <p>Working with structured data, queries, persistence, and caching concepts.</p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&amp;theme=dark&amp;perline=8" alt="MySQL, PostgreSQL, MongoDB, Redis" />
 
----
+  <h3>🔧 Developer Tools & Platforms</h3>
+  <p>Version control, local development, debugging, deployment, and collaboration.</p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,cloudflare,githubactions&amp;theme=dark&amp;perline=8" alt="Git, GitHub, VS Code, Linux, Docker, Cloudflare, GitHub Actions" />
 
-## 📊 GitHub Analytics & Code Contribution
-
-<p align="center">
-  <a href="https://github.com/alfzcore">
-    <img src="https://github-profile-trophy.vercel.app/?username=alfzcore&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/alfzcore">
-    <img src="https://github-readme-stats.vercel.app/api?username=alfzcore&show_icons=true&theme=radical&count_private=true" alt="GitHub Core Stats" width="48%" />
-  </a>
-  <a href="https://github.com/alfzcore">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfzcore&layout=compact&theme=radical" alt="Top Languages Used" width="48%" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/alfzcore">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfzcore&theme=radical" alt="GitHub Contribution Streak" width="97%" />
-  </a>
-</p>
+  <h3>☁️ Cloud & Infrastructure — Exploring</h3>
+  <p>Continuously learning about cloud services, containers, and infrastructure automation.</p>
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,terraform&amp;theme=dark&amp;perline=8" alt="AWS, Kubernetes, Terraform" />
+</div>
 
 ---
 
-## 🚀 Continuous Learning & Future Roadmap
+<!-- ═══════════════════════════════ EXPERTISE AREAS ═══════════════════════════════ -->
+## 🧠 What I Like Working On
 
-To remain at the cutting edge of software engineering, I maintain a strict learning pipeline. Here is my current trajectory:
+Alongside individual tools and languages, I enjoy understanding how different parts of a software system fit together. Some of the areas that interest me most include:
 
-```text
-==================================================================================
- [PHASE 1: CURRENT MASTERY]
- ├── Advanced Microservices Topologies (Saga Pattern, CQRS)
- ├── High-Availability Database Replication (PostgreSQL/MySQL)
- └── CI/CD Pipeline Hardening & Security Integration (DevSecOps)
- 
- [PHASE 2: ACTIVE EXPLORATION (Q3/Q4)]
- ├── Kubernetes Native (Helm Charts, Istio Service Mesh, ArgoCD)
- ├── Enterprise Cloud Architecture (AWS Solutions Architect Level)
- └── High-Performance Systems with Rust & WebAssembly (Wasm)
+| Area | What I focus on |
+| :--- | :--- |
+| 🌐 **Web Development** | Accessible layouts, responsive interfaces, and thoughtful user experiences |
+| 🔗 **API Engineering** | REST endpoints, API integration, clear responses, and error handling |
+| ⚙️ **Backend Systems** | Application logic, data flow, maintainable code, and performance |
+| 🤖 **Automation & Tooling** | Scripts, developer utilities, and simplifying repetitive workflows |
+| 🗃️ **Data Management** | Relational databases, queries, data modeling, and caching fundamentals |
+| 🛡️ **Security Mindset** | Input validation, responsible access controls, and defensive development |
+| 🧱 **Software Architecture** | Modular design, separation of concerns, and scalable system concepts |
+| ☁️ **Cloud & DevOps** | Deployment workflows, containers, infrastructure, and monitoring fundamentals |
 
- [PHASE 3: HORIZON TECHNOLOGIES (2025-2026)]
- ├── Applied MLOps & LLM Integration (RAG Pipelines, Vector DBs)
- └── Distributed Ledger Technologies (Blockchain/Web3 Infrastructure)
-==================================================================================
-```
+<div align="center">
+  <h3>🎯 My Main Interests</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Web%20Development-0F172A?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Web Development" />
+    <img src="https://img.shields.io/badge/REST%20APIs-2563EB?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="REST APIs" />
+    <img src="https://img.shields.io/badge/Automation-334155?style=for-the-badge&amp;logo=gnubash&amp;logoColor=white" alt="Automation" />
+    <img src="https://img.shields.io/badge/Open%20Source-16A34A?style=for-the-badge&amp;logo=opensourceinitiative&amp;logoColor=white" alt="Open Source" />
+  </p>
+</div>
 
 ---
 
-## 🤝 Let's Connect & Collaborate!
+<!-- ═══════════════════════════════ MINDSET ═══════════════════════════════ -->
+## ✨ How I Approach Development
 
-I am actively open to discussing complex architectural challenges, enterprise-level job opportunities, open-source collaborations, or simply having a virtual coffee chat about the future of tech.
+- **🧩 Understand before building** — Learn the problem, identify the requirements, and choose tools that actually fit.
+- **🧼 Keep code readable** — Favor clear naming, simple structures, and maintainable solutions over unnecessary complexity.
+- **⚡ Care about the experience** — Pay attention to responsiveness, performance, and the small details users notice.
+- **🔒 Think about security early** — Treat validation, error handling, and safe defaults as part of development, not afterthoughts.
+- **🔁 Improve through iteration** — Test ideas, learn from mistakes, and keep refining what can be better.
+- **🤝 Build and learn together** — Value documentation, useful feedback, and sharing knowledge with others.
 
-<p align="center">
-  <!-- Professional & Social Networking -->
-  <a href="https://www.linkedin.com/in/keivan-gymnastiar-al-farrizi-294287355" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
-  </a>
-  <a href="mailto:alfarrizi-studio@snd.de5.net">
-    <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Contact" />
-  </a>
-  <a href="https://x.com/Al_Farrizi06" target="_blank">
-    <img src="https://img.shields.io/badge/X_Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter Profile" />
-  </a>
-  <a href="https://www.threads.com/@al.farrizi__" target="_blank">
-    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads Profile" />
-  </a>
-  <a href="https://www.instagram.com/al.farrizi__" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Profile" />
-  </a>
-</p>
+---
 
-<p align="center">
-  <!-- Video, Gaming, & Community Platforms -->
-  <a href="https://www.youtube.com/@Al_Farrizi" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel" />
-  </a>
-  <a href="https://www.tiktok.com/@al.farrizi_" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Profile" />
-  </a>
-  <a href="https://www.twitch.tv/alfarrizi" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Channel" />
-  </a>
-  <a href="https://steamcommunity.com/id/Al_Farrizi/" target="_blank">
-    <img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Profile" />
-  </a>
-  <a href="https://discord.com/users/765521422399176725" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server" />
-  </a>
-</p>
+<!-- ═══════════════════════════════ CONNECT ═══════════════════════════════ -->
+<div align="center">
+  <h2>🌍 Let's Connect!</h2>
+  <p>Interested in technology, open source, or building something useful?<br />Feel free to connect, share an idea, or just say hello. 🤝</p>
+  <p>
+    <a href="https://github.com/AlFarrizi-Studio"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
+    <a href="https://www.linkedin.com/in/keivan-gymnastiar-al-farrizi-294287355"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://discord.com/users/765521422399176725"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord" /></a>
+    <a href="mailto:alfarrizi-studio@snd.de5.net"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+  </p>
+  <p>
+    <a href="https://x.com/Al_Farrizi06"><img src="https://img.shields.io/badge/X-000000?style=flat-square&amp;logo=x&amp;logoColor=white" alt="X" /></a>
+    <a href="https://www.threads.com/@al.farrizi__"><img src="https://img.shields.io/badge/Threads-000000?style=flat-square&amp;logo=threads&amp;logoColor=white" alt="Threads" /></a>
+    <a href="https://www.instagram.com/al.farrizi__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&amp;logo=instagram&amp;logoColor=white" alt="Instagram" /></a>
+    <a href="https://www.youtube.com/@Al_Farrizi"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&amp;logo=youtube&amp;logoColor=white" alt="YouTube" /></a>
+  </p>
+</div>
 
-<p align="center">
-  <i>"Architecture is about the important stuff. Whatever that is." — Ralph Johnson</i><br>
-  <b>Engineered with high precision and ❤️ in Indonesia | © Al Farrizi</b>
-</p>
+---
+
+<!-- ═══════════════════════════════ SUPPORT / DONATIONS ═══════════════════════════════ -->
+<div align="center">
+  <h2>☕ Support My Work</h2>
+  <a href="https://github.com/AlFarrizi-Studio" title="Al Farrizi on GitHub">
+    <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0F172A,50:1E3A8A,100:0891B2&amp;height=170&amp;section=header&amp;text=Support%20My%20Work&amp;fontSize=40&amp;fontColor=FFFFFF&amp;fontAlignY=39&amp;desc=Building%20useful%20tools%2C%20one%20commit%20at%20a%20time&amp;descAlignY=69&amp;descSize=17" alt="Support My Work — Building useful tools, one commit at a time" width="100%" />
+  </a>
+
+  <p>
+    <strong>💙 Enjoying my work? You can help me keep building!</strong>
+  </p>
+  <p>
+    Your support helps me with <strong>server hosting, maintaining open-source projects,
+    learning new technologies, and developing more free tools</strong>.
+    Every contribution, big or small, means a lot. ✨
+  </p>
+  <p><strong>👇 Choose your preferred support platform</strong></p>
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="215">
+      <a href="https://tako.id/alfarrizi.dev/gift" title="Support on Tako">
+        <img src="https://avatars.githubusercontent.com/u/139215619?s=200&amp;v=4" alt="Tako official logo" width="105" height="105" />
+      </a>
+      <br />
+      <strong>🐙 Tako</strong>
+      <br />
+      <sub>Send a little gift</sub>
+      <br /><br />
+      <a href="https://tako.id/alfarrizi.dev/gift">
+        <img src="https://img.shields.io/badge/Send%20a%20Gift-2495D4?style=for-the-badge&amp;logoColor=white" alt="Donate on Tako" />
+      </a>
+    </td>
+    <td align="center" width="215">
+      <a href="https://saweria.co/AlFarriziDev" title="Support on Saweria">
+        <img src="https://play-lh.googleusercontent.com/WNiaq-O6jE8SScHKMstj5HyOzvESv-hKNtO9245X370m_qIEfFvV6ydqYvzsvwP7BkExz8RXPEDk9U8em-nDAQ=s0-br30" alt="Saweria logo" width="105" height="105" />
+      </a>
+      <br />
+      <strong>🧡 Saweria</strong>
+      <br />
+      <sub>Send your support</sub>
+      <br /><br />
+      <a href="https://saweria.co/AlFarriziDev">
+        <img src="https://img.shields.io/badge/Send%20Support-F6A500?style=for-the-badge&amp;logoColor=white" alt="Donate on Saweria" />
+      </a>
+    </td>
+    <td align="center" width="215">
+      <a href="https://trakteer.id/alfarrizi/tip" title="Support on Trakteer">
+        <img src="https://edge-cdn.trakteer.id/images/mix/trakteer-icon-thumbnail.png?v=14-05-2025" alt="Trakteer official logo" width="105" height="105" />
+      </a>
+      <br />
+      <strong>❤️ Trakteer</strong>
+      <br />
+      <sub>Treat me to a coffee</sub>
+      <br /><br />
+      <a href="https://trakteer.id/alfarrizi/tip">
+        <img src="https://img.shields.io/badge/Treat%20Me-B71C2B?style=for-the-badge&amp;logoColor=white" alt="Donate on Trakteer" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <p>
+    <sub>💌 Donations are always optional. Stars, feedback, and sharing my work are wonderful ways to support me too!</sub>
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <h3>💬 Keep Creating, Keep Learning</h3>
+  <p><em>"Great software begins with curiosity and grows through continuous improvement."</em></p>
+  <p>Made with 💙, ☕, and curiosity in Indonesia 🇮🇩</p>
+  <sub>© Al Farrizi · Thanks for visiting my profile!</sub>
+</div>
