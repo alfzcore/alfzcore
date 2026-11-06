@@ -64,7 +64,7 @@ I believe good software should be more than functional. It should also be **clea
 <div align="center">
   <h3>💻 Programming Languages</h3>
   <p>Languages I use and continue learning for building applications, scripts, and services.</p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,go,php&amp;theme=dark&amp;perline=8" alt="JavaScript, TypeScript, Python, Go, PHP" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,go,php,java,kotlin,cpp,cs,rust&amp;theme=dark&amp;perline=5" alt="JavaScript, TypeScript, Python, Go, PHP, Java, Kotlin, C++, C#, Rust" />
 
   <h3>🎨 Frontend & UI Development</h3>
   <p>Building interactive, responsive, and user-friendly web experiences.</p>
