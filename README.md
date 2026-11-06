@@ -129,6 +129,96 @@ Alongside individual tools and languages, I enjoy understanding how different pa
 
 ---
 
+<!-- ═══════════════════════════════ FAVORITE GAMES ═══════════════════════════════ -->
+<div align="center">
+  <h2>🎮 Beyond the Code — My Favorite Games</h2>
+  <p>When I'm not coding, debugging, or exploring new technologies, you'll probably find me gaming! 🎧</p>
+  <p>From competitive shooters and survival horror to open-world adventures and creative sandbox worlds, these are some of the games I enjoy.</p>
+  <p><sub>✨ Code by day, game on whenever I can.</sub></p>
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="170">
+      <img src="https://www.google.com/s2/favicons?domain=roblox.com&amp;sz=128" alt="Roblox icon" width="76" height="76" /><br />
+      <strong>Roblox</strong>
+    </td>
+    <td align="center" width="170">
+      <img src="https://cdn2.steamgriddb.com/icon_thumb/b5b51ea98a0fe3ba71787a570deee800.png" alt="Counter-Strike 2 icon" width="76" height="76" /><br />
+      <strong>Counter-Strike 2</strong>
+    </td>
+    <td align="center" width="170">
+      <img src="https://cdn2.steamgriddb.com/icon/04e35ab54388b691735c8b4231d387a1.png" alt="Valorant icon" width="76" height="76" /><br />
+      <strong>Valorant</strong>
+    </td>
+    <td align="center" width="170">
+      <img src="https://cdn2.steamgriddb.com/icon/f894cbc7551b7dea91a6aa9fbfc95c21.png" alt="Neverness to Everness icon" width="76" height="76" /><br />
+      <strong>Neverness to Everness</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn2.steamgriddb.com/icon/1e8104634a61ffdedaf3568890107eea.png" alt="Grand Theft Auto V icon" width="76" height="76" /><br />
+      <strong>Grand Theft Auto V</strong>
+    </td>
+    <td align="center">
+      <img src="https://cdn2.steamgriddb.com/icon/85694c717778fc80b8a4d3b2d11654b6.png" alt="Delta Force icon" width="76" height="76" /><br />
+      <strong>Delta Force</strong>
+    </td>
+    <td align="center">
+      <img src="https://pngteam.com/images/apex-legends-logo-png-3500x3500_a556b631_transparent.png" alt="Apex Legends icon" width="76" height="76" /><br />
+      <strong>Apex Legends</strong>
+    </td>
+    <td align="center">
+      <img src="https://cdn2.steamgriddb.com/icon/0b94ce08688c6389ce7b68c52ce3f8c7/24/1024x1024.png" alt="Dead by Daylight icon" width="76" height="76" /><br />
+      <strong>Dead by Daylight</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.google.com/s2/favicons?domain=minecraft.net&amp;sz=128" alt="Minecraft icon" width="76" height="76" /><br />
+      <strong>Minecraft</strong>
+    </td>
+    <td align="center">
+      <img src="https://cdn3.emoji.gg/emojis/72656-strinova-logo.png" alt="Strinova icon" width="76" height="76" /><br />
+      <strong>Strinova</strong>
+    </td>
+    <td align="center">
+      <img src="https://i0.wp.com/vrcentral.co/wp-content/uploads/2023/11/Phasmophobia.jpg?fit=800%2C800&amp;ssl=1" alt="Phasmophobia icon" width="76" height="76" /><br />
+      <strong>Phasmophobia</strong>
+    </td>
+    <td align="center">
+      <img src="https://fastcdn.hoyoverse.com/static-resource-v2/2023/11/02/bf82c4f8573eb6292f338a3ec41c1615_6171503094506184079.png" alt="Zenless Zone Zero icon" width="76" height="76" /><br />
+      <strong>Zenless Zone Zero</strong>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <p>
+    <img src="https://img.shields.io/badge/Gamer-At%20Heart-7C3AED?style=for-the-badge&amp;logo=steam&amp;logoColor=white" alt="Gamer at heart" />
+    <img src="https://img.shields.io/badge/FPS%20%26%20Adventure-Enjoyer-2563EB?style=for-the-badge&amp;logoColor=white" alt="FPS and adventure games enjoyer" />
+    <img src="https://img.shields.io/badge/Play%20%7C%20Learn%20%7C%20Create-0F172A?style=for-the-badge&amp;logoColor=white" alt="Play, learn, create" />
+  </p>
+</div>
+
+### 🕹️ Find Me In-Game
+
+Whether it's building something in Roblox, queuing for a match in Valorant, or exploring a new world, here are my gaming usernames:
+
+| Platform | My username / ID | Extra details |
+| :--- | :--- | :--- |
+| 🎲 **Roblox** | **@GabitGaming** | Roblox username |
+| 🎮 **Steam** | **Al_Farrizi** | Steam ID: `1925290918` |
+| 🌆 **Neverness to Everness** | **Yuna** | Region: **SEA** |
+| 🎯 **Valorant** | **Al Farrizi#CYBR** | Riot ID |
+
+<div align="center">
+  <p><em>"One more game... then back to coding."</em> 🎮💻</p>
+</div>
+
+---
+
 <!-- ═══════════════════════════════ CONNECT ═══════════════════════════════ -->
 <div align="center">
   <h2>🌍 Let's Connect!</h2>
@@ -149,7 +239,7 @@ Alongside individual tools and languages, I enjoy understanding how different pa
 
 ---
 
-<!-- ═══════════════════════════════ SUPPORT / DONATIONS ═══════════════════════════════ -->
+<!-- ═══════════════════════════════ SUPPORT / DONATIONS ═══════════════════════ -->
 <div align="center">
   <h2>☕ Support My Work</h2>
   <a href="https://github.com/AlFarrizi-Studio" title="Al Farrizi on GitHub">
